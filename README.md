@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas DEMOL</h1>
 <h3 align="center">A passionate React/Node developer</h3>
 
-- 🔭 I’m currently working on [K2 Process Intranet](https://github.com/nicolasdemol/reactK2P)
+- 🔭 I’m currently working on [AI DoX](https://github.com/nicolasdemol/quill)
 
 - 🌱 I’m currently learning **AI**
 
