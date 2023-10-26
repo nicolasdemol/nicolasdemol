@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas DEMOL</h1>
 <h3 align="center">A passionate React/Node developer</h3>
 
-- 🔭 I’m currently working on [AI DoX](https://github.com/nicolasdemol/quill)
+- 🔭 I’m currently working on [Syntexts AI](https://github.com/nicolasdemol/syntexts)
 
 - 🌱 I’m currently learning **AI**
 
